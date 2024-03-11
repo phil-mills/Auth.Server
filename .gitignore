@@ -1,0 +1,5 @@
+# Junk
+*.DS_Store
+.vscode
+obj
+bin
